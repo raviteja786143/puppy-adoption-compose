@@ -6,12 +6,21 @@
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+Android app built with Jetpack Compose. This app contains an overview screen that displays a list of dogs, and a detail screen showing each dog's details.
+
+Jetpack Compose is Android’s modern toolkit for building native UI. It enables you to quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
+
+This app is build for submitting first week #AndroidDevChallenge.
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+Jetpack Compose will ease the implementing animations faster with less code. Check below previews.
+
+App navigation is built with Compose too which eliminates the previous way of using Navigation Component with xml graph. This made development faster also passing args and changing destinations.
+
+Understanding to implement own Theme Shape Typography Color has became bit easier by referring to lot of official jetpack compose samples which are available in GitHub.
+
+Best of all we got to do this in Kotlin way. Excited and long way to go from here.
 
 
 ## :camera_flash: Screenshots
