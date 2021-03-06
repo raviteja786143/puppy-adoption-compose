@@ -1,13 +1,29 @@
 <resources>
-    <!--
-      Copyright 2020 The Android Open Source Project
-      Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
-      in compliance with the License. You may obtain a copy of the License at
-      http://www.apache.org/licenses/LICENSE-2.0
-      Unless required by applicable law or agreed to in writing, software distributed under the License
-      is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
-      or implied. See the License for the specific language governing permissions and limitations under
-      the License.
-      -->
-    <string name="app_name">AndroidDevChallenge</string>
+	<!--
+	  Copyright 2020 The Android Open Source Project
+	  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+	  in compliance with the License. You may obtain a copy of the License at
+	  http://www.apache.org/licenses/LICENSE-2.0
+	  Unless required by applicable law or agreed to in writing, software distributed under the License
+	  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+	  or implied. See the License for the specific language governing permissions and limitations under
+	  the License.
+	  -->
+	<string name="app_name">PetAdopt</string>
+	<string name="label_back">Back</string>
+	<string name="label_male">Male</string>
+	<string name="label_female">Female</string>
+	<string name="change_life">"You can change a life with adopting, loving and sharing "</string>
+	<string name="location_label">Location</string>
+	<string name="location_txt">Bangalore, India</string>
+	<string name="detail_header">Details</string>
+	<string name="detail_placeholder">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud…</string>
+	<string name="habits_header">Habits</string>
+	<string name="address_header">Address</string>
+	<string name="medication_header">Medication</string>
+	<string name="about_header">About US</string>
+	<string name="scroll_to_top">Scroll to top</string>
+	<string name="switch_theme">Switch Theme</string>
+	<string name="dark_mode">Dark Mode</string>
+	<string name="light_mode">Light Mode</string>
 </resources>
